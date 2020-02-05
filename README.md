@@ -8,7 +8,7 @@ DESCRIPTION
 -------------------------
 In this project we are implementing an offensive Language Identification Model for Twitter Tweets using a pretrained BERT model: bert_uncased_L-12_H-768_A-12/1
 
-We train our Model on a Google Cloud Computing platform using GPUs.
+We train our model on a Google Cloud Computing Services using GPUs. However we do not recommed using GGCS as they are not able to provide stable available ressources for the Virtual machines. In order to avoid downtime we recommend using other cloud services.
 
 ------------------------
 This project has been implemented by partly using ressources and code of:
