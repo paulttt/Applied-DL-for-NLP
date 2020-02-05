@@ -6,7 +6,7 @@ International Workshop on Semantic Evaluation 2020 - Task 12: Multilingual Offen
 
 DESCRIPTION
 -------------------------
-In this project we are implementing an offensive Language Identification Model for Twitter Tweets using a pretrained BERT model: bert_uncased_L-12_H-768_A-12/1 ´
+In this project we are implementing an offensive Language Identification Model for Twitter Tweets using a pretrained BERT model: bert_uncased_L-12_H-768_A-12/1
 
 We train our Model on a Google Cloud Computing platform using GPUs.
 
