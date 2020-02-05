@@ -11,7 +11,7 @@ In this project we are implementing an offensive Language Identification Model f
 We train our Model on a Google Cloud Computing platform using GPUs.
 
 ------------------------
-This project has been implemented by partly using ressources and codes of:
+This project has been implemented by partly using ressources and code of:
 
 https://github.com/SimonHegelich/ADL-NLP
 
