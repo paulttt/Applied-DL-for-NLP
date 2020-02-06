@@ -15,6 +15,8 @@ This project has been implemented by partly using ressources and code of:
 
 https://github.com/SimonHegelich/ADL-NLP
 
+https://norvig.com/spell-correct.html
+
 https://github.com/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb
 
 
